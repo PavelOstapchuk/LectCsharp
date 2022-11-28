@@ -43,3 +43,5 @@ while (count < 50000)
     count++; // count = count + 1; count+=1; count++ если всегда плюс 1.
 }
 
+
+
